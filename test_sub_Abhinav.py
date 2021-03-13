@@ -12,7 +12,6 @@ class DeliverrModel:
             self.access_token = access_token
             self.model = {}
             self.__prod_detail = defaultdict(list)
-            self.__prod_detail["Products"]
 
 
         #private function for internal use
